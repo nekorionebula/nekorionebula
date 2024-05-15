@@ -23,7 +23,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Equipment 🧰
+### Equipment 
 
 - `Laptop` - VivoBook OLED M1403Q
   - `CPU` - AMD Ryzen 5 5600H
@@ -33,18 +33,18 @@
 - `Browser` - Chrome, Brave, Firefox 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-#### 💡 My projects:
+### My projects:
 - ChewCheck: <a href = "https://github.com/nekorionebula/chewcheck">source</a> | demo
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### 🏆 Github Stats
+#### Github Stats
 <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=nekorionebula">
 <img src="https://github-profile-trophy.vercel.app/?username=nekorionebula">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### 🤙 Reach me on:
+#### Reach me on:
 ----
 ----
 ----
