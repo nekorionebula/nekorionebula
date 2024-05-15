@@ -15,7 +15,7 @@
   - English
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-#### :computer:
+#### :computer: Learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&color=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,9 +31,6 @@
   - `GPU` - AMD Radeon Graphics
   - `Operating System` - Windows 11
 - `Browser` - Chrome, Brave, Firefox 
- - ![Intellij-Idea](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=plastic&logo=intellijidea)
- - ![VSCode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 #### 💡 My projects:
