@@ -1,0 +1,43 @@
+name: "Update README.md"
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+jobs:
+  check_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v4
+
+      - name: Set up NodeJS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+
+      - name: Set up python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.9
+
+      - name: Install NodeJS packages
+        run: |
+          npm install
+
+      - name: Run updater.py
+        env:
+          HEADERS: ${{ secrets.HEADERS }}
+        run: |
+          python updater.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "nekorionebula"
+          git config user.email "ardiansyahrafael5@gmail.com"
+          git diff
+          git add README.md generated-profile.png
+          git commit -sm "workflow: update some magic~"
+          git push
