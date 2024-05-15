@@ -3,7 +3,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### About Me
-
 - My name is `fel`
 - Live in `Indonesia`
 - `19` years old
@@ -24,19 +23,16 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### Equipment 
-
 - `Laptop` - VivoBook OLED M1403Q
   - `CPU` - AMD Ryzen 5 5600H
   - `RAM` - 16GB DDR4 3200MHz
   - `GPU` - AMD Radeon Graphics
   - `Operating System` - Windows 11
 - `Browser` - Chrome, Brave, Firefox 
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ### My projects:
 - ChewCheck: <a href = "https://github.com/nekorionebula/chewcheck">source</a> | demo
-
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 #### Github Stats
