@@ -8,7 +8,7 @@
 - Live in `Indonesia`
 - `19` years old
 - `Computer Engineer` Student at `Diponegoro University`
-- Currently, I'm learning `Go`, `Java`, `C++`, `Python`, and `PHP`
+- Currently, I'm learning `Go`, `Java`, `Python`, `PHP`, and `C++`
 - Languages
   - Indonesian
   - Javanese
@@ -34,7 +34,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 #### 💡 My projects:
-- ChewCheck: [source](https://github.com/nekorionebula/chewcheck)
+- ChewCheck: <a href = "https://github.com/nekorionebula/chewcheck">source</a> | demo
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
