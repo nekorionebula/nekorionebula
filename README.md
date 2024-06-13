@@ -28,7 +28,7 @@
   - `RAM` - 16GB DDR4 3200MHz
   - `GPU` - AMD Radeon Graphics
   - `Operating System` - Windows 11
-- `Browser` - Chrome, Brave, Firefox 
+- `Browser` - Chrome Brave 
 
 <a href ="https://instagram.com/nekorionebula" target = "_blank"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
