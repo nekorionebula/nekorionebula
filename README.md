@@ -32,6 +32,7 @@
 
 ### My projects:
 - ChewCheck: <a href = "https://github.com/nekorionebula/chewcheck">source</a> | demo
+- Finance-Manager: <a href = "https://github.com/nekorionebula/Finance-Manager-App">source</a> | demo
 
 <a href ="https://instagram.com/nekorionebula" target = "_blank"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
